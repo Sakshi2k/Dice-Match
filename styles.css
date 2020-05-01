@@ -1,0 +1,57 @@
+.container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  margin-top: -10pt;
+  text-align: center;
+  display: inline-block;
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 22px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 5rem;
+  color: #4ECCA3;
+}
+
+h3{
+  font-size: 20pt;
+  color: antiquewhite;
+  font-family: 'Indie Flower', cursive;
+}
+
+p {
+  margin-top: 20px;
+  font-size: 2rem;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+img {
+  width: 70%;
+}
+
+button{
+  margin-top: 2%;
+  text-align: center;
+  margin-left: 46.5%;
+  font-weight: 500;
+}
+
+button :hover{
+  cursor: pointer;
+}
+
+footer {
+  margin-top: 2%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+}
